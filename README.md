@@ -19,20 +19,19 @@ Developed an interactive data analytics dashboard as part of the Tata Data Analy
 - Data Visualization
 - Business Intelligence
 - Data Analytics
-
-# 📷 Dashboard Screenshots
+## 📷 Dashboard Screenshots
 
 ## Dashboard 1
-![Dashboard 1](images/dashboard1.png)
+![Dashboard 1](images/Screenshot%202026-05-24%20170656.png)
 
 ## Dashboard 2
-![Dashboard 2](images/dashboard2.png)
+![Dashboard 2](images/Screenshot%202026-05-24%20170719.png)
 
 ## Dashboard 3
-![Dashboard 3](images/dashboard3.png)
+![Dashboard 3](images/Screenshot%202026-05-24%20170734.png)
 
 ## Dashboard 4
-![Dashboard 4](images/dashboard4.png)
+![Dashboard 4](images/Screenshot%202026-05-24%20170751.png)
 
 ## 📈 Key Insights
 - Identified revenue growth trends and seasonal sales peaks
