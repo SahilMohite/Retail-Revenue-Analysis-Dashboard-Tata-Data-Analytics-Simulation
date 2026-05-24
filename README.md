@@ -1,58 +1,41 @@
-# Retail Revenue Analysis Dashboard – Tata Data Analytics Simulation
+# 📊 Retail Revenue Analysis Dashboard – Tata Data Analytics Simulation
 
-## Overview
-This project was completed as part of the Tata Data Analytics Simulation. The objective of this project was to analyze retail business data and generate meaningful insights for executive stakeholders through data visualization and dashboard reporting.
+## 🚀 Overview
+Developed an interactive data analytics dashboard as part of the Tata Data Analytics Simulation to analyze retail revenue trends, customer purchasing behavior, and regional business performance. Delivered executive-level insights and recommendations for CEO and CMO stakeholders using data visualization and business intelligence techniques.
 
-The project focuses on:
-- Revenue trends
-- Seasonal sales patterns
-- Customer behavior
-- Regional performance
-- Business growth opportunities
+## 📌 Features
+- Monthly Revenue Trend Analysis
+- Seasonal Sales Pattern Identification
+- Customer Behavior Analysis
+- Regional Performance Insights
+- Revenue & Demand Analysis
+- Executive-Level Business Reporting
+- Interactive Dashboards & Visualizations
 
-Interactive dashboards and visual storytelling techniques were used to present insights for CEO and CMO decision-making.
-
----
-
-## Project Objectives
-- Analyze retail sales and revenue performance
-- Identify monthly and seasonal business trends
-- Evaluate customer and regional performance
-- Create executive-level dashboards and reports
-- Deliver actionable business insights using data analytics
-
----
-
-## Tools & Technologies
+## 🛠️ Technologies Used
+- Power BI / Tableau
 - Excel
 - SQL
-- Power BI / Tableau
 - Data Visualization
 - Business Intelligence
 - Data Analytics
 
----
+# 📷 Dashboard Screenshots
 
-## Key Insights
-- Identified high-performing months and seasonal revenue peaks
-- Analyzed customer purchasing behavior and demand patterns
-- Evaluated regional sales contribution and performance
-- Generated business recommendations using dashboard insights
+## Dashboard 1
+![Dashboard 1](images/dashboard1.png)
 
----
+## Dashboard 2
+![Dashboard 2](images/dashboard2.png)
 
-## Dashboard Preview
+## Dashboard 3
+![Dashboard 3](images/dashboard3.png)
 
-![Dashboard](images/dashboard1.png)
+## Dashboard 4
+![Dashboard 4](images/dashboard4.png)
 
----
-
-## Skills Demonstrated
-- Data Cleaning & Analysis
-- Dashboard Development
-- Data Storytelling
-- Business Reporting
-- Analytical Thinking
-- Executive Presentation
-
----
+## 📈 Key Insights
+- Identified revenue growth trends and seasonal sales peaks
+- Analyzed customer purchasing patterns and demand behavior
+- Evaluated regional sales performance and business contribution
+- Generated actionable business recommendations using dashboard insights
